@@ -1,0 +1,62 @@
+{"timestamp": "2023-12-25 04:06:40", "input_message": "messi", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:06:44", "input_message": "stadiums hosted groups a", "output_response": "Groups A, B, E, and F in the 2022 World Cup were hosted at Al Bayt Stadium, Khalifa International Stadium, Al Thumama Stadium, and Ahmad bin Ali Stadium. "}
+{"timestamp": "2023-12-25 04:07:39", "input_message": "stadium hosted group a", "output_response": "Groups A, B, E, and F in the 2022 World Cup were hosted at Al Bayt Stadium, Khalifa International Stadium, Al Thumama Stadium, and Ahmad bin Ali Stadium. "}
+{"timestamp": "2023-12-25 04:07:51", "input_message": "stadium hosted group c", "output_response": "Groups C, D, G, and H in the 2022 World Cup were hosted at Lusail Stadium, Stadium 974, Education City Stadium, and Al Janoub Stadium."}
+{"timestamp": "2023-12-25 04:08:00", "input_message": "when was match schedule got fixed", "output_response": "FIFA confirmed the match schedule for the 2022 World Cup in July 2020."}
+{"timestamp": "2023-12-25 04:08:28", "input_message": "when was the first game held", "output_response": "The group stage of the 2022 World Cup was initially set to begin on 21 November, but the Qatar vs Ecuador game was moved to 20 November, making that the start date."}
+{"timestamp": "2023-12-25 04:09:32", "input_message": "who played the first game", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:09:47", "input_message": "who played the first match", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:10:16", "input_message": "stadiums hosted groups a", "output_response": "Groups A, B, E, and F in the 2022 World Cup were hosted at Al Bayt Stadium, Khalifa International Stadium, Al Thumama Stadium, and Ahmad bin Ali Stadium. "}
+{"timestamp": "2023-12-25 04:10:49", "input_message": "which was the final game", "output_response": "The group stage of the 2022 World Cup was initially set to begin on 21 November, but the Qatar vs Ecuador game was moved to 20 November, making that the start date."}
+{"timestamp": "2023-12-25 04:11:54", "input_message": "who played the final match", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:12:17", "input_message": "when was the group stage got fixed", "output_response": "The group stage of the 2022 World Cup was initially set to begin on 21 November, but the Qatar vs Ecuador game was moved to 20 November, making that the start date."}
+{"timestamp": "2023-12-25 04:13:46", "input_message": "when was the price annoucement", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:14:17", "input_message": "annouce for the price", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:14:38", "input_message": "announce of the price", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:14:46", "input_message": "what was the minimum price", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:14:55", "input_message": "total prize pool for the world Cup", "output_response": "The total prize pool for the 2022 World Cup was 440 million USD. The prize pool for the 2022 World Cup was $40 million greater than the prize pool of the previous tournament."}
+{"timestamp": "2023-12-25 04:15:12", "input_message": "each qualified team receive for preparation costs", "output_response": "Each qualified team for the 2022 World Cup received 1.5 million  USD before the competition to cover preparation costs.Each team participating in the 2022 World Cup received at least $9 million in prize money."}
+{"timestamp": "2023-12-25 04:15:24", "input_message": "runners-up of the 2022 w", "output_response": "The runners-up of the 2022 World Cup received 30 million USD."}
+{"timestamp": "2023-12-25 04:15:46", "input_message": "team in the group stage 17th recicieved", "output_response": "Each team in the group stage (17th to 32nd place) of the 2022 World Cup received 9 million USD."}
+{"timestamp": "2023-12-25 04:16:19", "input_message": "what was the total price distrubution", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:16:42", "input_message": "what was the new price distribution", "output_response": "In the tournament, teams could make up to five substitutions in normal time, and an additional substitution in extra time. The tournament was the first World Cup to feature concussion substitutions, allowing each team to use a maximum of one concussion substitute during a match, which did not count towards the team's quota of regular substitutions."}
+{"timestamp": "2023-12-25 04:34:05", "input_message": "how much did fourth won", "output_response": "The team in fourth place at the 2022 World Cup received 25 million USD."}
+{"timestamp": "2023-12-25 04:34:16", "input_message": "which was the first game", "output_response": "The group stage of the 2022 World Cup was initially set to begin on 21 November, but was moved to 20 November, between  Qatar vs Ecuador making it a start date."}
+{"timestamp": "2023-12-25 04:34:30", "input_message": "what was the total price pool", "output_response": "The total prize pool for the 2022 World Cup was 440 million USD. The prize pool for the 2022 World Cup was $40 million greater than the prize pool of the previous tournament."}
+{"timestamp": "2023-12-25 04:40:21", "input_message": "tell me about messi", "output_response": "8 groups plays in their respective Groups, top 2 qualify, then Knockout round starts of last-16. 16 team plays and winner head to Quatar final and winner goes to Semi final and winner plays Final and Winner is Crown champion of the world. if want to know point system, please type 'point system.'"}
+{"timestamp": "2023-12-25 04:40:28", "input_message": "who is messi", "output_response": "Messi (Argentina)won the man of the match, and won the golden ball and names FIFAs men best player of the Tournament."}
+{"timestamp": "2023-12-25 04:40:42", "input_message": "who is mbappe", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:43:17", "input_message": "messi", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:43:20", "input_message": "lionel", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:43:25", "input_message": "lionel messi\\", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:43:29", "input_message": "who is messi", "output_response": "Messi (Argentina)won the man of the match, and won the golden ball and names FIFAs men best player of the Tournament."}
+{"timestamp": "2023-12-25 04:43:34", "input_message": "kylian mbappe", "output_response": "Kylian Mbappe (France) won the 2022 FiFA World cup Golden boot scoring the total of eight (8) goals."}
+{"timestamp": "2023-12-25 04:43:41", "input_message": "which was the first match", "output_response": "The group stage of the 2022 World Cup was initially set to begin on 21 November, but was moved to 20 November, between  Qatar vs Ecuador making it a start date."}
+{"timestamp": "2023-12-25 04:44:03", "input_message": "what was the price pool", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:44:42", "input_message": "what was the price pool of world cup", "output_response": "The total prize of 440 million USD was distributed among the 32 teams with varying amounts depending on their final standing in the tournament, ranging from 9 million USD for group stage teams to 42 million USD for the champions."}
+{"timestamp": "2023-12-25 04:44:53", "input_message": "who won the final", "output_response": "Emiliano Martinez (Argentina) has been awarded the Golden Glove after helping Argentina win the 2022 FIFA World Cup in Qatar. He saved penalty kicks "}
+{"timestamp": "2023-12-25 04:45:05", "input_message": "who was the finalist", "output_response": "I don't know"}
+{"timestamp": "2023-12-25 04:45:21", "input_message": "who won the world cup", "output_response": "it was an event in Qatar 2022 where  Argentina held the first position"}
+{"timestamp": "2023-12-28 21:50:51", "input_message": "hi", "output_response": "Hello! How can I help you today;"}
+{"timestamp": "2023-12-28 21:50:55", "input_message": "group a standing", "output_response": "Group standing for Group A: 1. Netherlands, 2. Senegal, 3. Ecuador, 4. Qatar"}
+{"timestamp": "2023-12-28 21:51:40", "input_message": "position of a", "output_response": "I don't know"}
+{"timestamp": "2023-12-28 21:52:06", "input_message": "position of a table", "output_response": "I don't know"}
+{"timestamp": "2023-12-28 21:52:40", "input_message": "position of group a", "output_response": "I don't know"}
+{"timestamp": "2023-12-28 21:52:56", "input_message": "schedules change", "output_response": "I don't know"}
+{"timestamp": "2023-12-28 21:54:28", "input_message": "schedule change", "output_response": "I don't know"}
+{"timestamp": "2023-12-28 21:54:52", "input_message": "when was the schedule change happen", "output_response": "I don't know"}
+{"timestamp": "2023-12-28 21:57:00", "input_message": "what was change schedules", "output_response": "Each qualified team for the 2022 World Cup received 1.5 million  USD before the competition to cover preparation costs.Each team participating in the 2022 World Cup received at least $9 million in prize money."}
+{"timestamp": "2023-12-28 22:02:57", "input_message": "what was the prize pool", "output_response": "Each qualified team for the 2022 World Cup received 1.5 million  USD before the competition to cover preparation costs.Each team participating in the 2022 World Cup received at least $9 million in prize money."}
+{"timestamp": "2023-12-28 22:03:21", "input_message": "when was the schedules change", "output_response": "The bidding procedure to host the 2018 and 2022 FIFA World Cups began in January 2009.National associations had until 2 February 2009 to register their interest in hosting the 2018 and 2022 FIFA World Cups."}
+{"timestamp": "2023-12-28 22:03:37", "input_message": "standing of group b", "output_response": "Group standing for Group B: 1. England, 2. USA 3. IR Iran 4. Wales"}
+{"timestamp": "2023-12-28 22:05:12", "input_message": "how much prizepool was for third position", "output_response": "Argentina played France and  beat the finalist to be crown as the raining champion of World cup 2022 Qatar after deafeating the tough opponent in France created most exciting Final."}
+{"timestamp": "2023-12-28 22:06:35", "input_message": "prizepool for 3rd place", "output_response": "Argentina played France and  beat the finalist to be crown as the raining champion of World cup 2022 Qatar after deafeating the tough opponent in France created most exciting Final."}
+{"timestamp": "2023-12-28 22:07:01", "input_message": "argentina", "output_response": "Argentina played France and  beat the finalist to be crown as the raining champion of World cup 2022 Qatar after deafeating the tough opponent in France created most exciting Final."}
+{"timestamp": "2023-12-30 03:28:32", "input_message": "hi", "output_response": "Hello! How can I help you today;"}
+{"timestamp": "2024-01-08 01:20:35", "input_message": "hi", "output_response": "group a standing, postion of a table"}
+{"timestamp": "2024-01-08 01:20:38", "input_message": "group a", "output_response": "group a standing, postion of a table"}
+{"timestamp": "2024-01-08 01:20:43", "input_message": "hello", "output_response": "group a standing, postion of a table"}
+{"timestamp": "2024-01-08 01:20:46", "input_message": "netherlands", "output_response": "group a standing, postion of a table"}
+{"timestamp": "2024-01-08 01:47:57", "input_message": "hi", "output_response": "Hello! How can I help you today;"}
+{"timestamp": "2024-01-08 01:48:00", "input_message": "can you tell me who won the hworld cup", "output_response": "it was an event in Qatar 2022 where  Argentina held the first position"}
+{"timestamp": "2024-01-08 01:48:14", "input_message": "when was the first bid ", "output_response": "it was an event in Qatar 2022 where  Argentina held the first position"}
